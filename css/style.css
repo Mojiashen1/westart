@@ -135,6 +135,10 @@ section ul li:before {
 	padding-right: 0;
 }
 
+.col-md-3.mentor {
+	padding-bottom: 8px;
+}
+
 /*--------------------
 2. Navigation
 --------------------*/
@@ -643,6 +647,9 @@ figure.effect-bubba:hover p {
     padding: 5px 10px 20px 10px;
 }
 
+.team-text {
+	height: 80px;
+}
 /*--------------------
 4.7. Contacts
 --------------------*/
