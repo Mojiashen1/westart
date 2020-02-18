@@ -135,7 +135,7 @@ section ul li:before {
 	padding-right: 0;
 }
 
-.col-md-3.mentor {
+.col-md-3.mentor, .col-md-3.team {
 	padding-bottom: 8px;
 }
 
